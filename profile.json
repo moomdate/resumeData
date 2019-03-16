@@ -3,12 +3,13 @@
     "address":"7/1 moo 4 sahakornikon kanchanaburi 71180 ",
     "timeline":
        [{
-            "start":"2015",
-            "end":"2016",
-            "details":" ร่วมเป็นคณะท้างานโครงการ  “SUT Hackathon #2 IoT Series” \r\nชมรมโรบอทร่วมกับ  SEDA  มหาวิทยาลัยเทคโนโลยสีุรนารี "
+            "start":"2017",
+            "end":"",
+            "details":"ร่วมเป็นคณะทำงานโครงการ  “SUT Hackathon #2 IoT Series” \r\nชมรมโรบอทร่วมกับ  SEDA  มหาวิทยาลัยเทคโนโลยสีุรนารี"
         },{
-            "start":"2016",
-            "end":"2018"
+            "start":"2017",
+            "end":""
+            "details":"เข้าร่วมการอบรม Design Thinking โดย SEDAมหาวิทยาลัยเทคโนโลยีสุรนารี"
         }
     ]
 }
